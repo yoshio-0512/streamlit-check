@@ -1,7 +1,7 @@
+torch
 streamlit
 ultralytics
 Pillow
 numpy
 emoji
 opencv-python
-torch
