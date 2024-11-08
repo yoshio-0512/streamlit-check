@@ -1,4 +1,7 @@
+streamlit
 ultralytics
 Pillow
 numpy
-matplotlib
+emoji
+opencv-python
+torch
