@@ -2,7 +2,7 @@ torch
 streamlit
 ultralytics
 Pillow
-numpy==1.24.4
 emoji
 opencv-python-headless==4.8.0.76
-setuptools
+setuptools==67.0.0
+numpy==1.24.4
