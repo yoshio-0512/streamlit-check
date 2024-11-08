@@ -5,3 +5,4 @@ Pillow
 numpy==1.23.5
 emoji
 opencv-python-headless==4.8.0.76
+setuptools
